@@ -1,6 +1,11 @@
 .*{
 
 }
+h1{
+	color: #777;
+	font-size: !important;
+}
+}
 .Flex-conteiner{
 	display: flex;
 	align-items: center;
